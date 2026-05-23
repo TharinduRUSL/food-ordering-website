@@ -97,3 +97,32 @@ header {
 .hero-btn:hover {
     background-color: #e64500;
 }
+
+.search-section{
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.search-section h2 {
+    margin-bottom: 20px;
+    color: #222;
+}
+
+.search-section input {
+    width: 350px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+
+}
+
+.search-section button {
+    padding: 12px 25px;
+    border: none;
+    border-radius: 25px;
+    background-color: #ff4d00;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
